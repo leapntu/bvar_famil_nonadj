@@ -1,0 +1,21 @@
+TRAINED / CORRECT ADJACENCIES
+p-k-j.wav
+p-w-j.wav
+p-l-j.wav
+p-f-j.wav
+
+v-k-t.wav
+v-w-t.wav
+v-l-t.wav
+v-f-t.wav
+
+UNTRAINED / INCORRECT ADJACENCIES
+v-k-j.wav
+v-w-j.wav
+v-l-j.wav
+v-f-j.wav
+
+p-k-t.wav
+p-w-t.wav
+p-l-t.wav
+p-f-t.wav
